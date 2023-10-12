@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7e11c&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7e11c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Henrique;I'm+20+years+old;I'm+from+Brazil;I'm+learning+JavaScript+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -20,11 +18,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{byKoro}/count.svg" /></p> 
-<br>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7e11c&height=120&section=footer"/>
