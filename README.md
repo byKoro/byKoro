@@ -10,3 +10,4 @@
 ## Minhas redes
 - [YouTube](https://www.youtube.com/@yKoro) 
 - [Instagram](https://www.instagram.com/okorocomendo/)
+- [Comunidade no discord](https://discord.gg/vpaM68nXuV)
