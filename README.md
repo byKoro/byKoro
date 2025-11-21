@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="mailto:yuriludwig.email@gmail.com" title="Gmail">
+  <a href="mailto:yuriludwig.email@gmail.com" title="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yuriludwig.email@gmail.com" alt="Gmail"/></a>
   
-  <a href="https://www.youtube.com/@yKoro" title="YouTube">
+  <a href="https://www.youtube.com/@yKoro" title="YouTube" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@yKoro" alt="Facebook"/></a>
   
-  <a href="https://www.instagram.com/okorocomendo/" title="Instagram">
+  <a href="https://www.instagram.com/okorocomendo/" title="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/okorocomendo/" alt="Instagram"/></a>
 </p>
