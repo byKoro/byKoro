@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:yuriludwig.email@gmail.com" title="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yuriludwig.email@gmail.com" title="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yuriludwig.email@gmail.com" alt="Gmail"/></a>
   
   <a href="https://www.youtube.com/@yKoro" title="YouTube" target="_blank">
