@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🧑‍💻 Tecnologias: <b>HTML5; CSS3; N8N</b>
+  🧑‍💻 Tecnologias: <b>HTML5; CSS3</b>
 </p>
 
 <p align="left">
