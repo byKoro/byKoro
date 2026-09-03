@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Me chamo <b>Yuri Henrique</b>, sou brasileiro, tenho 22 anos e sou um Youtuber e estudante de programação.
+  Me chamo <b>Yuri Henrique</b>, sou brasileiro, tenho 23 anos e sou um Youtuber e estudante de programação.
   Me considero uma pessoa didática, uso da programação para criar automações e ferramentas que possam ajudar a mim e a outras pessoas.
 </p>
 
